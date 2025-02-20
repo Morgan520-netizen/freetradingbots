@@ -1,20 +1,20 @@
-<xml xmlns="http://www.w3.org/1999/xhtml" is_dbot="true" collection="false">
+<xml xmlns="http://www.w3.org/1999/xhtml" is_dbot="true" collection="true">
   <variables>
-    <variable type="" id="1Gp/v]LP27,I/mi@$;US" islocal="false" iscloud="false">NAME</variable>
-    <variable type="" id="9dQ4tsj$@`vWpu;:2{K=" islocal="false" iscloud="false">Stake</variable>
-    <variable type="" id="`=|V?TV%1c6]^Pvh=CK/" islocal="false" iscloud="false">Loss</variable>
-    <variable type="" id="7/Cs|{m_XjDwo::I6g5A" islocal="false" iscloud="false">Random</variable>
-    <variable type="" id="!P]:?:q)?v?}qINF%J42" islocal="false" iscloud="false">Win Stake</variable>
-    <variable type="" id="#nKyoAm=Zh-Afx.zUa%f" islocal="false" iscloud="false">Trend List</variable>
-    <variable type="" id=":Fbza.{0*q*jalJ+tc#." islocal="false" iscloud="false">Expected Profit</variable>
-    <variable type="" id="BTQ{$u318X:bRnhP(mQ9" islocal="false" iscloud="false">Stop Loss</variable>
-    <variable type="" id="$9kfg`#)W1GU[tN89.$Y" islocal="false" iscloud="false">list</variable>
-    <variable type="" id="bw=WNch~q~IyOluni[{w" islocal="false" iscloud="false">text</variable>
-    <variable type="" id="5sjtQu$-/?=Smx**u,[," islocal="false" iscloud="false">text1</variable>
-    <variable type="" id=",^hu|}AYLe!Uy/eB*Xza" islocal="false" iscloud="false">text2</variable>
-    <variable type="" id="3;41-/yDNM7GQiJ)3t8;" islocal="false" iscloud="false">text3</variable>
-    <variable type="" id="i)c1G![Sbwc71H79Cxx9" islocal="false" iscloud="false">text4</variable>
-    <variable type="" id="fn}w18~E+(.4W*[N}-^@" islocal="false" iscloud="false">text5</variable>
+    <variable type="" id="1Gp/v]LP27,I/mi@$;US" islocal="true" iscloud="true">NAME</variable>
+    <variable type="" id="9dQ4tsj$@`vWpu;:2{K=" islocal="true" iscloud="true">Stake</variable>
+    <variable type="" id="`=|V?TV%1c6]^Pvh=CK/" islocal="true" iscloud="true">Loss</variable>
+    <variable type="" id="7/Cs|{m_XjDwo::I6g5A" islocal="true" iscloud="true">Random</variable>
+    <variable type="" id="!P]:?:q)?v?}qINF%J42" islocal="true" iscloud="true">Win Stake</variable>
+    <variable type="" id="#nKyoAm=Zh-Afx.zUa%f" islocal="true" iscloud="true">Trend List</variable>
+    <variable type="" id=":Fbza.{0*q*jalJ+tc#." islocal="true" iscloud="true">Expected Profit</variable>
+    <variable type="" id="BTQ{$u318X:bRnhP(mQ9" islocal="true" iscloud="true">Stop Loss</variable>
+    <variable type="" id="$9kfg`#)W1GU[tN89.$Y" islocal="true" iscloud="true">list</variable>
+    <variable type="" id="bw=WNch~q~IyOluni[{w" islocal="true" iscloud="true">text</variable>
+    <variable type="" id="5sjtQu$-/?=Smx**u,[," islocal="true" iscloud="true">text1</variable>
+    <variable type="" id=",^hu|}AYLe!Uy/eB*Xza" islocal="true" iscloud="true">text2</variable>
+    <variable type="" id="3;41-/yDNM7GQiJ)3t8;" islocal="true" iscloud="true">text3</variable>
+    <variable type="" id="i)c1G![Sbwc71H79Cxx9" islocal="true" iscloud="true">text4</variable>
+    <variable type="" id="fn}w18~E+(.4W*[N}-^@" islocal="true" iscloud="true">text5</variable>
   </variables>
   <block type="trade_definition" id="dh^-@@VYq5^lDX~C~$86" deletable="false" x="0" y="0">
     <statement name="TRADE_OPTIONS">
@@ -110,7 +110,7 @@
                                             <field name="TEXT"></field>
                                           </shadow>
                                           <block type="text" id=",*)$NY%#-R_A69KnNmKS">
-                                            <field name="TEXT"> AUTO C4 PRO 1 [BY💵C. E. O FREDDY]•Expected Profit-&gt; $</field>
+                                            <field name="TEXT"> AUTO C4 PRO 1 [BY💵 Trade Titan FX]•Expected Profit-&gt; $</field>
                                           </block>
                                         </value>
                                         <next>
